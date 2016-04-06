@@ -119,8 +119,8 @@
 		<text name="COURSEPLAY_MODE_NOT_SUPPORTED_FOR_VEHICLETYPE" 		 text="車種が用途に合いません" />
 		<text name="COURSEPLAY_WEATHER_WARNING" 						 text="天気待ち" />
 		<text name="COURSEPLAY_LANE_OFFSET" 							 text="レーン オフセット" />
-		<text name="COURSEPLAY_TOOL_OFFSET_X" 							 text="ツールレベルオフセット" />
-		<text name="COURSEPLAY_TOOL_OFFSET_Z" 							 text="ツールバーティカルオフセット" />
+		<text name="COURSEPLAY_TOOL_OFFSET_X" 							 text="ツール左右オフセット" />
+		<text name="COURSEPLAY_TOOL_OFFSET_Z" 							 text="ツール前後オフセット" />
 		<text name="COURSEPLAY_FRONT" 									 text="先方" />
 		<text name="COURSEPLAY_BACK" 									 text="後方" />
 		<text name="COURSEPLAY_WORK_WIDTH" 								 text="作業幅" />
